@@ -20,11 +20,7 @@ const Portfolio = function () {
     return (
         <div className="row content-body">
             <div className="col-12">
-
-                <ul>
-                    {projectList}
-                </ul>
-
+                {projectList}
 
             </div>
         </div>

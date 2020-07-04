@@ -7,8 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(./assets/images/Background.png);
   background-repeat: repeat;
-  position: absolute;
-  background: cover;
 }
 
 code {
