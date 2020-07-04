@@ -35,7 +35,7 @@
         "group": false,
         "github": "https://github.com/Maxsem4/homework6",
         "deployed": "https://maxsem4.github.io/homework6/",
-        "screenshot": "https://github.com/Maxsem4/react-portfolio//blob/master/src/assets/SS1.JPG",
+        "screenshot": "https://github.com/Maxsem4/React-Portfolio/blob/master/react-portfolio/src/assets/images/WeatherDashboard.png?raw=true",
         "description": "The Weather Dashboard allows the user to search for a city and display the current weather conditions there, along with a 5-day forecast.  Previous cities the user has searched for are saved in local storage, and a button is generated for each previous search allowing the user to easily get the weather for that city again",
         "tech": "HTML, CSS, JavaScript, Axios"
     },
@@ -45,7 +45,7 @@
         "group": false,
         "github": "https://github.com/Maxsem4/homework5",
         "deployed": "https://maxsem4.github.io/homework5/",
-        "screenshot": "",
+        "screenshot": "https://github.com/Maxsem4/React-Portfolio/blob/master/react-portfolio/src/assets/images/DayScheduler.png?raw=true",
         "description": "A full stack React app connected to a Firebase database that allows the user to save notes to the database, view all existing notes, and delete notes when no longer needed",
         "tech": "React, JavaScript, CSS, Firebase, Moment.js"
     }
