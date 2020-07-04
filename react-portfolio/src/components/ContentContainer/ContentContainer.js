@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import Profile from "../Profile";
+import Portfolio from "../Portfolio"
 
 import { PageContext } from "../../page/page";
 import "./style.css";
@@ -37,6 +38,7 @@ const ContentContainer = function () {
                         </div>
                     </div>
                     {page === "profile" ? <Profile /> : ""}
+                    {page === "portfolio" ? <Portfolio /> : ""}
                 </div>
                 <div className="col-0 col-sm-1 col-xl-2"></div>
             </div>

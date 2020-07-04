@@ -21,3 +21,12 @@
     border: 2px solid #cccccc;
     position: relative;
 }
+.content-title {
+    font-size: 24px;
+    color: #4aaaa5;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 10px;
+}

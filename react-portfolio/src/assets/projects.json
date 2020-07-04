@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Business Information Tracker",
+        "group": true,
+        "github": "https://github.com/Maxsem4/JJM",
+        "deployed": "https://tranquil-badlands-76650.herokuapp.com/",
+        "screenshot": "https://github.com/Maxsem4/Portfolio/blob/master/src/assets/images/SS1.JPG",
+        "description": "This application was created to help businesses keep track of client information conveniently and efficiently. This application does this through keeping track of the businesses customers, sales orders, and receipts.",
+        "tech": "JavaScript, Node, Express, HTML5, CSS, Sequalize"
+    },
+    {
+        "id": 2,
+        "title": "Note Taker",
+        "group": true,
+        "github": "https://github.com/Maxsem4/noteTaker",
+        "deployed": "https://sleepy-everglades-08451.herokuapp.com/",
+        "screenshot": "",
+        "description": "",
+        "tech": "Node, Express, MySQL, Sequelize"
+    },
+    {
+        "id": 3,
+        "title": "Budget Tracker",
+        "group": true,
+        "github": "https://github.com/Maxsem4/budgetTracker",
+        "deployed": "https://maxsem4.github.io/budgetTracker",
+        "screenshot": "https://github.com/Maxsem4/Portfolio/blob/master/public/assets/SS1.png?raw=true",
+        "description": "Budget Tracker App",
+        "tech": "JavaScript, Node, Express, HTML5, CSS"
+    },
+    {
+        "id": 4,
+        "title": "Weather Dashboard",
+        "group": false,
+        "github": "https://github.com/Maxsem4/homework6",
+        "deployed": "https://maxsem4.github.io/homework6/",
+        "screenshot": "https://github.com/Maxsem4/Portfolio/blob/master/assets/SS1.JPG",
+        "description": "The Weather Dashboard allows the user to search for a city and display the current weather conditions there, along with a 5-day forecast.  Previous cities the user has searched for are saved in local storage, and a button is generated for each previous search allowing the user to easily get the weather for that city again",
+        "tech": "HTML, CSS, JavaScript, Axios"
+    },
+    {
+        "id": 5,
+        "title": "Day scheduler",
+        "group": false,
+        "github": "https://github.com/Maxsem4/homework5",
+        "deployed": "https://maxsem4.github.io/homework5/",
+        "screenshot": "",
+        "description": "A full stack React app connected to a Firebase database that allows the user to save notes to the database, view all existing notes, and delete notes when no longer needed",
+        "tech": "React, JavaScript, CSS, Firebase, Moment.js"
+    }
+]
