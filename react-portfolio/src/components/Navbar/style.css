@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #008cc9;
+}
+
+.navbar-container {
+    max-width: none;
+}
+
+.navbar-name {
+    display: flex;
+    flex-direction: column;
+    font-family: "La Belle Aurore", cursive;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 24px;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+} 
