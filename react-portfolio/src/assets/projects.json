@@ -5,7 +5,7 @@
         "group": true,
         "github": "https://github.com/Maxsem4/JJM",
         "deployed": "https://tranquil-badlands-76650.herokuapp.com/",
-        "screenshot": "https://github.com/Maxsem4/Portfolio/blob/master/src/assets/images/SS1.JPG",
+        "screenshot": "https://github.com/Maxsem4/React-Portfolio/blob/master/react-portfolio/src/assets/images/JJM.png?raw=true",
         "description": "This application was created to help businesses keep track of client information conveniently and efficiently. This application does this through keeping track of the businesses customers, sales orders, and receipts.",
         "tech": "JavaScript, Node, Express, HTML5, CSS, Sequalize"
     },
@@ -15,7 +15,7 @@
         "group": false,
         "github": "https://github.com/Maxsem4/fitnessTracker",
         "deployed": "https://calm-journey-28292.herokuapp.com/",
-        "screenshot": "https://github.com/Maxsem4/Portfolio/blob/master/public/assets/SS1.png?raw=true",
+        "screenshot": "https://github.com/Maxsem4/React-Portfolio/blob/master/react-portfolio/src/assets/images/fitnessTracker.png?raw=true",
         "description": "fitnessTracker is an app which allows the user to add workouts to a database and view a summary of the last seven days. The app uses the database containing workout objects. Each workout object contains an array of excercises.",
         "tech": "Node, Express, MySQL, Sequelize"
     },
@@ -25,9 +25,9 @@
         "group": true,
         "github": "https://github.com/Maxsem4/crimeAPI",
         "deployed": "https://maxsem4.github.io/CrimeAPI",
-        "screenshot": "https://github.com/Maxsem4/react-portfolio/blob/master/public/assets/SS1.png?raw=true",
+        "screenshot": "https://github.com/Maxsem4/React-Portfolio/blob/master/react-portfolio/src/assets/images/crimeAPI.jpeg?raw=true",
         "description": "The first API this project makes use of is the Crime Data Explorer which uses data from the Crime Data API(https://crime-data-explorer.fr.cloud.gov/api) which is provided by the FBI . We decided to use this api to allow the public to know the trend's in crime rate amount of crimes,and types of crimes that occur. With that information we hope the public would be well informed regarding crime when buying a house, or moving.",
-        "tech": "JavaScript, Node, Express, HTML5, CSS, Bulma"
+        "tech": "JavaScript, Node, Express, HTML5, CSS, Buclma"
     },
     {
         "id": 4,
